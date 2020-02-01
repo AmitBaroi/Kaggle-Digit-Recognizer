@@ -7,7 +7,7 @@ MNIST ("Modified National Institute of Standards and Technology") is the de fact
 
 In this competition, your goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. We’ve curated a set of tutorial-style kernels which cover everything from regression to neural networks. We encourage you to experiment with different algorithms to learn first-hand what works well and how techniques compare.
 
-<img src="images/MnistExamples.png">
+<img src="images/MnistExamples.png" align="middle">
 
 ## Goal
 The goal in this competition is to take an image of a handwritten single digit, and determine what that digit is.
@@ -29,13 +29,13 @@ For example, pixel31 indicates the pixel that is in the fourth column from the l
 
 Visually, if we omit the "pixel" prefix, the pixels make up the image like this:
 
-<img src="images/dat1.png">
+<img src="images/dat1.png" align="middle">
 
 The test data set, (test.csv), is the same as the training set, except that it does not contain the "label" column.
 
 Your submission file should be in the following format: For each of the 28000 images in the test set, output a single line containing the ImageId and the digit you predict. For example, if you predict that the first image is of a 3, the second image is of a 7, and the third image is of a 8, then your submission file would look like:
 
-<img src="images/dat2.png">
+<img src="images/dat2.png" align="middle">
 
 The evaluation metric for this contest is the categorization accuracy, or the proportion of test images that are correctly classified. For example, a categorization accuracy of 0.97 indicates that you have correctly classified all but 3% of the images.
 
