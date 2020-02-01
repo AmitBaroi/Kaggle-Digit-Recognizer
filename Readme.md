@@ -7,6 +7,8 @@ MNIST ("Modified National Institute of Standards and Technology") is the de fact
 
 In this competition, your goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. We’ve curated a set of tutorial-style kernels which cover everything from regression to neural networks. We encourage you to experiment with different algorithms to learn first-hand what works well and how techniques compare.
 
+<img src="images/MnistExamples.png">
+
 ## Goal
 The goal in this competition is to take an image of a handwritten single digit, and determine what that digit is.
 For every in the test set, you should predict the correct label.
