@@ -1,0 +1,6 @@
+- Run code on cloud from now on.
+
+- Try classic CONV nets: AlexNet, LeNet, VGG.
+
+- Why isnt' progress bar showing for each epoch of training?
+	- Only useful solution found: run on Colab (or probably also Kaggle)
