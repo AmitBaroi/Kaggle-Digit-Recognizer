@@ -1,6 +1,3 @@
-- Run code on cloud from now on.
+- Submission 1 was best (0.98828 > 0.98200 prev)
 
 - Try classic CONV nets: AlexNet, LeNet, VGG.
-
-- Why isnt' progress bar showing for each epoch of training?
-	- Only useful solution found: run on Colab (or probably also Kaggle)
